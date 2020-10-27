@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Rahul Gadre",
+    "label": "Cloud and DevOps",
+    "picture": "",
+    "email": "rishabkumar7@gmail.com",
+    "website": "https://rahulgadre.com",
+    "summary": "AWS and Linux entusiast with some experience in the Cloud.",
+    "location": {
+      "city": "Denver",
+      "countryCode": "USA",
+      "state": "Colorado"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "rggadre",
+        "url": "https://twitter.com/rggadre"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Rahul Gadre",
+        "url": "https://www.linkedin.com/in/rahulgadre/"
+      },
+      {
+        "network": "GitHub",
+        "username": "rahulgadre",
+        "url": "https://github.com/rahulgadre"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Avaya Inc.",
+      "position": "Cloud Systems Engineer",
+      "startDate": "07-05-2016",
+      "endDate": "Present",
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rochester Institute of Technology",
+      "area": "Networking and System Administration",
+      "studyType": "Master of Science",
+      "startDate": "08-26-2013",
+      "endDate": "05-20-2016"
+    }
+  ],
+  "honors_certs": [
+    {
+      "title": "Graduate Research Assistant",
+      "date": "05-11-2015",
+      "awarder": "Rochester Institute of Technology"
+    },
+    {
+      "title": "AWS Certified Soultions Architect Associate",
+      "date": "05-29-2020",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner",
+      "date": "03-28-2018",
+      "awarder": "Amazon Web Services"
+    },
+    {
+      "title": "Microsoft Certified Azure Fundamentals",
+      "date": "06-29-2020",
+      "awarder": "Microsoft"
+    },
+  ],
+  "skills": [
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "ELB",
+        "EC2",
+        "S3",
+        "VPC",
+        "CloudFront"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Beginner",
+      "keywords": [
+        "Azure Networking",
+        "VM",
+        "Storage"
+      ]
+    },
+  ],
+  "interests": [
+    {
+      "name": "Soccer",
+      "keywords": [
+        "Field",
+        "Indoor/Outdoor"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+        "Long walks",
+        "Mountains"
+      ]
+    }
+  ]
+}
