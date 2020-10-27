@@ -32,7 +32,7 @@
       "company": "Avaya Inc.",
       "position": "Cloud Systems Engineer",
       "startDate": "07-05-2016",
-      "endDate": "Present",
+      "endDate": "Present"
     }
   ],
   "education": [
@@ -64,7 +64,7 @@
       "title": "Microsoft Certified Azure Fundamentals",
       "date": "06-29-2020",
       "awarder": "Microsoft"
-    },
+    }
   ],
   "skills": [
     {
@@ -86,7 +86,7 @@
         "VM",
         "Storage"
       ]
-    },
+    }
   ],
   "interests": [
     {
